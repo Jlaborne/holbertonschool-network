@@ -2,4 +2,4 @@
 #Display listening TCP and UDP ports along with the PID and program name
 
 
-sudo ss -tulnp
+sudo netstat -tunlp
