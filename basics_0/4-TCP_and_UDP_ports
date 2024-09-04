@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-"""
-Display listening TCP and UDP ports along with the PID and program name
-"""
+#Display listening TCP and UDP ports along with the PID and program name
+
 
 sudo ss -tulnp
